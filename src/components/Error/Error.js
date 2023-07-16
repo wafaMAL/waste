@@ -4,7 +4,6 @@ import Button from "../Button";
 import { useHistory } from "react-router-dom";
 import { ModalHeader } from "../MasterCss";
 import { ReactComponent as StarsSvg } from "../../assets/stars.svg";
-import { ReactComponent as SpaceOctopus } from "../../assets/space-octopus.svg";
 
 const Container = styled.div`
   background-image: linear-gradient(#060606, #08345c);
@@ -17,11 +16,6 @@ const Container = styled.div`
   z-index: -10;
 `;
 
-const Octopus = styled(SpaceOctopus)`
-  position: absolute;
-  top: 25px;
-  right: 20px;
-`;
 
 const Stars = styled(StarsSvg)`
   position: absolute;
@@ -48,10 +42,9 @@ const Error = props => {
   return (
     <Container>
       <ModalHeader>error: 404</ModalHeader>
-      <ModalHeader>You're out in space!</ModalHeader>
-      <Octopus />
+      <ModalHeader>الرجاء الضغط على الزر</ModalHeader>
       <Stars />
-      <Button primary handleClick={goHome} label={"Back to Earth"} />
+      <Button primary handleClick={goHome} label={"اضغط هنا"} />
     </Container>
   );
 };
