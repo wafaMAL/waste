@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/waste/static/css/main.e6c13ad2.css",
-    "main.js": "/waste/static/js/main.8f0efbc4.js",
+    "main.js": "/waste/static/js/main.f89206a9.js",
     "static/media/hero_decorative-celebration-02.mp3": "/waste/static/media/hero_decorative-celebration-02.29d369857f1f0b2ea694.mp3",
     "static/media/jellyfish-smile.svg": "/waste/static/media/jellyfish-smile.125a3f6a748c9ebc6c3e1e39cc47fb4f.svg",
     "static/media/alert_error-01.mp3": "/waste/static/media/alert_error-01.46bcbd7d0b22125d3ad1.mp3",
     "static/media/starfish-smile.svg": "/waste/static/media/starfish-smile.a76e0f52255c40aea72563773afd5e02.svg",
-    "static/media/space-octopus.svg": "/waste/static/media/space-octopus.104bb8ae501946c5e85355284c8a219c.svg",
     "static/media/newspaper.svg": "/waste/static/media/newspaper.f1b6c5c82ea2750b4fa6707b6a8197c6.svg",
     "static/media/crab.svg": "/waste/static/media/crab.a9c3836d2e09208d7a97961263b0fe57.svg",
     "static/media/octopus-smile.svg": "/waste/static/media/octopus-smile.188c6d8b3b8dd547c0c3d6ed9b3c7a0d.svg",
@@ -49,10 +48,10 @@
     "static/media/sea-wave-5.svg": "/waste/static/media/sea-wave-5.5560e2adcfb30f0f847d2f9f0f025bd0.svg",
     "static/media/plastic-bag.svg": "/waste/static/media/plastic-bag.8bb3aa34298222ed57b8909f975f66f4.svg",
     "main.e6c13ad2.css.map": "/waste/static/css/main.e6c13ad2.css.map",
-    "main.8f0efbc4.js.map": "/waste/static/js/main.8f0efbc4.js.map"
+    "main.f89206a9.js.map": "/waste/static/js/main.f89206a9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8f0efbc4.js"
+    "static/js/main.f89206a9.js"
   ]
 }
