@@ -102,7 +102,8 @@ const LandingScreen = props => {
   return (
     
     <Container>
-      <Title> قلل كرر دور </Title>
+       <Title> قلّل كرّر دوّر</Title>
+      <br></br>
       <TitleBig></TitleBig>
 
     
