@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/waste/static/css/main.e6c13ad2.css",
-    "main.js": "/waste/static/js/main.9a021cd3.js",
+    "main.css": "/waste/static/css/main.7eb3a4b3.css",
+    "main.js": "/waste/static/js/main.79766cc0.js",
     "static/media/hero_decorative-celebration-02.mp3": "/waste/static/media/hero_decorative-celebration-02.29d369857f1f0b2ea694.mp3",
     "static/media/jellyfish-smile.svg": "/waste/static/media/jellyfish-smile.125a3f6a748c9ebc6c3e1e39cc47fb4f.svg",
     "static/media/alert_error-01.mp3": "/waste/static/media/alert_error-01.46bcbd7d0b22125d3ad1.mp3",
@@ -47,11 +47,11 @@
     "static/media/sea-wave-3.svg": "/waste/static/media/sea-wave-3.67ef2b2e52d14deaf1d1e9f7d6f26c5c.svg",
     "static/media/sea-wave-5.svg": "/waste/static/media/sea-wave-5.5560e2adcfb30f0f847d2f9f0f025bd0.svg",
     "static/media/plastic-bag.svg": "/waste/static/media/plastic-bag.8bb3aa34298222ed57b8909f975f66f4.svg",
-    "main.e6c13ad2.css.map": "/waste/static/css/main.e6c13ad2.css.map",
-    "main.9a021cd3.js.map": "/waste/static/js/main.9a021cd3.js.map"
+    "main.7eb3a4b3.css.map": "/waste/static/css/main.7eb3a4b3.css.map",
+    "main.79766cc0.js.map": "/waste/static/js/main.79766cc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.9a021cd3.js"
+    "static/css/main.7eb3a4b3.css",
+    "static/js/main.79766cc0.js"
   ]
 }
