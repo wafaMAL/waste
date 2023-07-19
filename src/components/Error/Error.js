@@ -59,6 +59,7 @@ z-index: 5;
 `;
 
 
+
 const Earth = styled.div`
   position: absolute;
   bottom: 0px;
