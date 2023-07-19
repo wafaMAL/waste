@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/waste/static/css/main.7eb3a4b3.css",
-    "main.js": "/waste/static/js/main.52523293.js",
+    "main.js": "/waste/static/js/main.12ed9866.js",
     "static/media/hero_decorative-celebration-02.mp3": "/waste/static/media/hero_decorative-celebration-02.29d369857f1f0b2ea694.mp3",
     "static/media/jellyfish-smile.svg": "/waste/static/media/jellyfish-smile.125a3f6a748c9ebc6c3e1e39cc47fb4f.svg",
     "static/media/alert_error-01.mp3": "/waste/static/media/alert_error-01.46bcbd7d0b22125d3ad1.mp3",
@@ -19,8 +19,8 @@
     "static/media/finger-snap.mp3": "/waste/static/media/finger-snap.ffe7eb6a926b9b137654.mp3",
     "static/media/bubbles.svg": "/waste/static/media/bubbles.c40285bda9d5824af1631bc259104f4f.svg",
     "static/media/tv.svg": "/waste/static/media/tv.60d7380f2903d2769fc0d90b4c83f9a6.svg",
-    "static/media/algae-3.svg": "/waste/static/media/algae-3.a71d10c52a4290e70754ebaf27eb16d9.svg",
     "index.html": "/waste/index.html",
+    "static/media/algae-3.svg": "/waste/static/media/algae-3.a71d10c52a4290e70754ebaf27eb16d9.svg",
     "static/media/cardboard-box.svg": "/waste/static/media/cardboard-box.da5eefc3b291f7da6ec89d321679ffc2.svg",
     "static/media/tap.svg": "/waste/static/media/tap.3e155915d486394c1fb5b0d68d2afe6e.svg",
     "static/media/apple-core.svg": "/waste/static/media/apple-core.ff299004561cdbacb0cc07c9bdd090f2.svg",
@@ -48,10 +48,10 @@
     "static/media/sea-wave-5.svg": "/waste/static/media/sea-wave-5.5560e2adcfb30f0f847d2f9f0f025bd0.svg",
     "static/media/plastic-bag.svg": "/waste/static/media/plastic-bag.8bb3aa34298222ed57b8909f975f66f4.svg",
     "main.7eb3a4b3.css.map": "/waste/static/css/main.7eb3a4b3.css.map",
-    "main.52523293.js.map": "/waste/static/js/main.52523293.js.map"
+    "main.12ed9866.js.map": "/waste/static/js/main.12ed9866.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb3a4b3.css",
-    "static/js/main.52523293.js"
+    "static/js/main.12ed9866.js"
   ]
 }
