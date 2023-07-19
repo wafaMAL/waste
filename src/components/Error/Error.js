@@ -118,7 +118,7 @@ const LandingScreen = props => {
         type="button"
         renderAs="button"
         handleClick={startGame}
-        label="أبدا"
+        label="ابدا"
       ></Button>
      
       <ButtonContainer>
