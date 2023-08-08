@@ -1,6 +1,5 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
-import Error from "./components/Error/Error";
 import GameScreen from "./components/GameScreen/GameScreen";
 import ResultScreen from "./components/ResultScreen/ResultScreen";
 import LandingScreen from "./components/LandingScreen/LandingScreen";
@@ -84,7 +83,20 @@ function App() {
             />
           )}
         />
-        <Route component={Error} />
+        <Route   <Route
+          path="/"
+          render={() => (
+            <LandingScreen
+              funFactsModal={funFactsModal}
+              setFunFactsModal={setFunFactsModal}
+              showFunFactsModal={showFunFactsModal}
+              showHowToPlayModal={showHowToPlayModal}
+              howToPlayModal={howToPlayModal}
+              setHowToPlayModal={setHowToPlayModal}
+            />
+          )}
+          exact
+        />
       </Switch>
       
     </main>
